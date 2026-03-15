@@ -1,0 +1,5 @@
+{
+  "name": "CHP Diagnostic Assistant",
+  "description": "A high-contrast, offline-first diagnostic tool for Community Health Promoters to perform and sync medical tests in low-connectivity regions.",
+  "requestFramePermissions": ["camera"]
+}
